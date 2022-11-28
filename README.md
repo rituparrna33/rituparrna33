@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rituparrna33
+- 👋 Hi, I’m Rituparna, I am pursuing MS in Business Analytics ar Foster School of Business.
 - 👀 I’m interested in Python and SQL.
 - 🌱 I’m currently learning Python and SQL.
 - 💞️ I’m looking to collaborate on Python and SQL.
