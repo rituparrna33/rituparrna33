@@ -13,6 +13,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Investigating failed orders of ride hailing app Gett using Python](https://medium.com/@ritupd/investigating-failed-orders-of-ride-hailing-app-gett-using-python-fc04d40c205?source=rss-f2d5609e444------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
