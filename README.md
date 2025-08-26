@@ -3,9 +3,9 @@
 
 - 💞️ I’m looking to collaborate on **Interesting data analytics projects**
 
-- 👀 I’m interested in **Analytics and Data Science**
+- 👀 I’m interested in **Driving Revenue with Analytics and Data Science**
 
-- 🌱 I’m cwork in **Python,SQL, and Tableau**
+- 🌱 I converse in **Python,SQL, and Tableau**
 
 - 👨‍💻 All of my projects are available at [https://rituparrna33.wixsite.com/rituparna](https://rituparrna33.wixsite.com/rituparna)
 
