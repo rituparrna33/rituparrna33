@@ -3,13 +3,13 @@
 
 - 💞️ I’m looking to collaborate on **Interesting data analytics projects**
 
-- 👀 I’m interested in **Machine Learning and Data Science**
+- 👀 I’m interested in **Analytics and Data Science**
 
-- 🌱 I’m currently learning **Python,SQL, Tableau and R**
+- 🌱 I’m cwork in **Python,SQL, and Tableau**
 
 - 👨‍💻 All of my projects are available at [https://rituparrna33.wixsite.com/rituparna](https://rituparrna33.wixsite.com/rituparna)
 
-- 📫 How to reach me **rituparrna33@gmail.com,ritupd@uw.edu**
+- 📫 How to reach me **rituparrna33@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
