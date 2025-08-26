@@ -7,9 +7,7 @@
 
 - 🌱 I converse in **Python,SQL, and Tableau**
 
-- 👨‍💻 All of my projects are available at [https://rituparrna33.wixsite.com/rituparna](https://rituparrna33.wixsite.com/rituparna)
-
-- 📫 How to reach me **rituparrna33@gmail.com**
+- 📫 How to reach me **Email : rituparrna33@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
