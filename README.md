@@ -11,7 +11,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Almost Mastered the Art of Small Talk in 2025 and Helped Build Better Relationships with My…](https://medium.com/@ritupd/how-i-almost-mastered-the-art-of-small-talk-in-2025-and-helped-build-better-relationships-with-my-2f1a82abf56b?source=rss-f2d5609e444------2)
+- [How I &lpar;Almost&rpar; Mastered the Art of Small Talk in 2025 and Helped Build Better Relationships with My…](https://medium.com/@ritupd/how-i-almost-mastered-the-art-of-small-talk-in-2025-and-helped-build-better-relationships-with-my-2f1a82abf56b?source=rss-f2d5609e444------2)
 - [Product Analytics using SQL in Snowflake](https://medium.com/@ritupd/product-analytics-using-sql-in-snowflake-de09f3bc84b5?source=rss-f2d5609e444------2)
 - [Web-scraping using BeautifulSoup](https://medium.com/@ritupd/web-scraping-countries-and-population-data-using-beautifulsoup-14f8b740c179?source=rss-f2d5609e444------2)
 - [Querying and Visualizing Messy Data Using MySQL and Tableau](https://medium.com/@ritupd/querying-and-visualizing-messy-data-using-tableau-and-sql-61655b3b4b5e?source=rss-f2d5609e444------2)
