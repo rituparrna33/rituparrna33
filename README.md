@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rituparna Das</h1>
 <h3 align="center">I am a Senior Business Analyst at Iron Mountain.I pursued MS in Business Analytics from Foster School of Business,University of Washington, Seattle</h3>
 
-- 💞️ I’m looking to collaborate on **advanced data analytics projects**
+- 💞️ I’m looking to collaborate on **advanced analytics projects**
 
 - 👀 I’m interested in **Driving Revenue with Analytics and Data Science**
 
