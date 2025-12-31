@@ -11,11 +11,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Tableau Dashboards for the PowerPoint Download](https://medium.com/@ritupd/building-tableau-dashboards-for-the-powerpoint-download-5a6fadc9f171?source=rss-f2d5609e444------2)
 - [How I Fixed Executive Sales Targets in Tableau Using WINDOW_SUM function](https://medium.com/@ritupd/how-i-fixed-executive-sales-targets-in-tableau-using-window-sum-function-ff36077edcfe?source=rss-f2d5609e444------2)
 - [How I &lpar;Almost&rpar; Mastered the Art of Small Talk in 2025](https://medium.com/@ritupd/how-i-almost-mastered-the-art-of-small-talk-in-2025-and-helped-build-better-relationships-with-my-2f1a82abf56b?source=rss-f2d5609e444------2)
 - [Product Analytics using SQL in Snowflake](https://medium.com/@ritupd/product-analytics-using-sql-in-snowflake-de09f3bc84b5?source=rss-f2d5609e444------2)
 - [Web-scraping using BeautifulSoup](https://medium.com/@ritupd/web-scraping-countries-and-population-data-using-beautifulsoup-14f8b740c179?source=rss-f2d5609e444------2)
-- [Querying and Visualizing Messy Data Using MySQL and Tableau](https://medium.com/@ritupd/querying-and-visualizing-messy-data-using-tableau-and-sql-61655b3b4b5e?source=rss-f2d5609e444------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
